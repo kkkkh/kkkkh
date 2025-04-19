@@ -11,11 +11,7 @@
 
 ## 🔧 Technologies & Tools
 
-<img height="200px" alt="kkkkh's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkh&hide=html" />
-<img height="200px" alt="kkkkh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kkkkh&show_icons=true&count_private=true" />
-
-[![kkkkh's github stats](https://github-readme-stats.vercel.app/api?username=kkkkh)](https://github.com/anuraghazra/github-readme-stats)
-[![kkkkh's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="200px" alt="kkkkh's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkh&hide=html,css,less" /><img height="200px" alt="kkkkh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kkkkh&show_icons=true&count_private=true" />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
